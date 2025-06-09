@@ -1,0 +1,11 @@
+Project: Sales Dashboard using Excel
+
+Description:
+- Analyzed monthly sales data to identify top-performing products and regions.
+- Used pivot tables, slicers, and charts to create an interactive dashboard.
+
+Tools: Excel
+
+How to use:
+1. Open the Excel file.
+2. Use filters and slicers to explore different time frames and regions.

@@ -1,0 +1,10 @@
+Project: COVID-19 Data Analysis
+
+Description:
+- Analyzed real-time COVID-19 data from Our World in Data.
+- Visualized top 10 countries with highest total cases using matplotlib.
+
+Tools: Python, Pandas, Matplotlib
+
+How to use:
+1. Run `covid_analysis.py` (ensure you have internet access and required libraries).

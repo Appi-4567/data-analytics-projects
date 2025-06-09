@@ -1,0 +1,10 @@
+Project: E-commerce Customer Segmentation
+
+Description:
+- Applied KMeans clustering to simulate customer segmentation.
+- Used 'total_bill' and 'tip' as RFM-like features.
+
+Tools: Python, Pandas, Scikit-learn
+
+How to use:
+1. Run `customer_segmentation.py` (make sure necessary libraries are installed).
